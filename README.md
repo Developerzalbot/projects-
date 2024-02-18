@@ -2,9 +2,9 @@
     <img src="https://telegra.ph/file/5643869b658e87315a1d6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-## PENTING
+## zaldevv
 
-> **Warning**: Jangan Memperjual Belikan Script Ini.
+> **Warning**: never want to be a clown.
 
 
 <h1 align="center">rizal - developer</h1>

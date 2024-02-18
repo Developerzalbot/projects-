@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/5643869b658e87315a1d6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## PENTING
@@ -7,7 +7,7 @@
 > **Warning**: Jangan Memperjual Belikan Script Ini.
 
 
-<h1 align="center">ElainaBOT - MD</h1>
+<h1 align="center">rizal - developer</h1>
 
 <p align="center">
  <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
